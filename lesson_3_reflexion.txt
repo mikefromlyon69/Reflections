@@ -1,1 +1,5 @@
 When would you want to create a remote repo rather than keeping all you work local?
+
+  - To collaborate with people all around the world
+  - To allow people to review my code
+  - To allow me to work on a project with different computers
