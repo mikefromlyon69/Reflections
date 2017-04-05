@@ -3,3 +3,8 @@ When would you want to create a remote repo rather than keeping all you work loc
   - To collaborate with people all around the world
   - To allow people to review my code
   - To allow me to work on a project with different computers
+  
+ 
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+ - Because I don't want broken code to be pulled automatically
