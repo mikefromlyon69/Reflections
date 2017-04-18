@@ -21,3 +21,8 @@ What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
     To have a copy that I can work on without an Internet access.
+    
+ How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+ 
+  It would be possible but more difficult.
+  For example, I could use a shared folder online (DropBox...) but I wouldn't easily see the changes. Plus, there are no pull requests in a simple shared folders : anyone in the group could change something without noticing other making it more diffcult to track changes and bugs.
