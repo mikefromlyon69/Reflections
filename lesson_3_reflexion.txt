@@ -26,3 +26,11 @@ stored locally?
  
   It would be possible but more difficult.
   For example, I could use a shared folder online (DropBox...) but I wouldn't easily see the changes. Plus, there are no pull requests in a simple shared folders : anyone in the group could change something without noticing other making it more diffcult to track changes and bugs.
+
+
+When would you want to make changes in a separate branch rather than directly in
+master? What benefits does each approach have?
+
+I would work with branches if I wanted to experiment things without breaking master. For example, if I wanted to support other languages.
+
+On the other hand, I'd rather make changes in master if I wanted to change a core functionnality that I'm sur about.
